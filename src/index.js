@@ -15,6 +15,6 @@ console.log(remainder);
 let Student = false;
 console.log(Student);
 let variable = 150;
-console.log(true); 
+console.log(typeof variable); 
 variable = "Hello, Where is my money?";
-console.log(variable);
+console.log(typeof variable);
