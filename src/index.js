@@ -1,3 +1,10 @@
+alert("Hello World")
+alert("Marriet Aho")
+
+
+let house=prompt("where is your house?");
+alert(house + " it is!");
+
 let Name = "Marriet Aho";
 console.log(Name);
 let Age = 89;
